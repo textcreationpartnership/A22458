@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King Charles by the grace of God king of England, Scotland, France and Ireland, defender of the faith, &amp;c., to all to whome these presents shall come, greeting : whereas we are giuen to understand, by the lords and others of our priuie counsell, that there are a great number of the inhabitants of the Isle of Ree ...</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1628</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22458</idno>
+            <idno type="STC">STC 8875</idno>
+            <idno type="STC">ESTC S3645</idno>
+            <idno type="EEBO-CITATION">33150680</idno>
+            <idno type="OCLC">ocm 33150680</idno>
+            <idno type="VID">28704</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22458)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28704)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1876:100)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King Charles by the grace of God king of England, Scotland, France and Ireland, defender of the faith, &amp;c., to all to whome these presents shall come, greeting : whereas we are giuen to understand, by the lords and others of our priuie counsell, that there are a great number of the inhabitants of the Isle of Ree ...</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>By Bonham Norton and Iohn Bill, Printers  to the Kings most Excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>Anno 1627 [i.e. 1628]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>For a 2-year collection on behalf of refugees from the Isle of Ré.</note>
+                  <note>"Witnesse Our Selfe at Westminster, the fourth day of Ianuary, in  the third yeere of Our Reigne."</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Charitable contributions.</term>
+               <term>Huguenots.</term>
+               <term>Religious refugees --  England.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:28704:1"/>
+            <!-- PDF PAGE 6 -->
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q>DIEV ET MON DROIT</q>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>¶ By the King.</head>
+            <opener>
+               <signed>
+                  <seg rend="decorInit">C</seg>HARLES By the grace of God, King of England, Scotland, France, and Ireland, Defender of the Faith, &amp;c.</signed>
+               <salute>To all to whom theſe preſents ſhall come, greeting.</salute>
+            </opener>
+            <p>WHEREAS Wee are giuen to vnder<g ref="char:EOLhyphen"/>ſtand, by the Lords and others of Our Priuie Counſell, that there are a great number of the Inhabitants of the Iſle of <hi>Ree,</hi> together with their Wiues and Children, profeſſing the true Reformed Religion with vs, who out of a iuſt apprehenſion, and feare of the malice and cruelty of their enemies, practiſed againſt them in former times vpon all occaſions, haue aban<g ref="char:EOLhyphen"/>doned their owne Countrey, their Houſes and Eſtates, and other earthly Commodities, and haue withdrawen themſelues into this Our Realme, and vnder Our protection, for the ſecurity of their perſons, and more free exerciſe of their Religion. And that very many of them are in great diſtreſſe, eſpecially occaſioned through the ſuddenneſſe of their leauing their owne homes and liuelyhoods; Wee being mooued with a Princely and Pious compaſſion towards them, as fellow Mem<g ref="char:EOLhyphen"/>bers of the true Church, and with comfort remembring the charitable and hoſpitable refuge and reliefe, which Our Do<g ref="char:EOLhyphen"/>minions haue in former times affoorded to all ſuch Strangers, who haue ſuffered for the profeſſion of the Goſpel, And that the religious practice of this Chriſtian duety to others, will, by the bleſſing of God, bee a meanes to preſerue Vs, and Our people from the like diſtreſ<g ref="char:EOLhyphen"/>ſes, And taking notice that the Lords, and others of Our Priuie Counſell for the inciting of the Charity of others, haue rated themſelues to ſuch a propor<g ref="char:EOLhyphen"/>tion of bounty and reliefe to theſe diſtreſſed Strangers, as may giue incouragement to ſo charitable a worke, which example Wee earneſtly deſire, that all other of Our louing Subiects, according to their degrees, would chearefully follow. KNOW yee therefore, That Wee, of Our Princely grace, doe or<g ref="char:EOLhyphen"/>der and grant, that a Collection be made of the charitable deuotion, and liberality of all Our louing Subiects throughout Our Realme of <hi>England,</hi> and Do<g ref="char:EOLhyphen"/>minion of <hi>Wales,</hi> in all places whatſoeuer, aſwell within liberties as without, towards the reliefe and ſuccour of the ſayd poore Inhabitants of the Iſle of <hi>Ree,</hi> liuing diſperſed and diſtreſſed in ſundry parts of this Our Realme, as in <hi>Plimouth, Southhampton Portſmouth,</hi> and in the Citie of <hi>London,</hi> and elſwhere to bee exe<g ref="char:EOLhyphen"/>cuted and ordered in manner and forme following: That is to ſay, Wee will, grant, appoint, and require, that Sir <hi>William Becher</hi> Knight, one of the Clerkes of Our Priuie Counſell, ſhall and may procure to bee printed ſo many Briefes of theſe Our Letters Patents, as may ſuffice for the accompliſhing and perfor<g ref="char:EOLhyphen"/>mance of this good worke, and ſhall cary and ſhew theſe Our Letters Patents, vnder Our great Seale, to the Lord Biſhop of <hi>London,</hi> and ſhall alſo leaue with him ſo many of theſe printed Briefes, as there bee Churches of Chappels, wherein publique or Diuine ſeruice is vſually ſayd within the circuite or pre<g ref="char:EOLhyphen"/>cinct of the ſeuerall Prouinces of <hi>Canterbury</hi> and <hi>Yorke.</hi> And Wee require the ſaid Lord Biſhop of <hi>London</hi> to receiue the ſaid Briefes, and to ſend and diſtribute them with ſpeede vnto euery Archbiſhop and Biſhop within theſe Our Dominions, ſo many of the ſayd Briefes, as are requiſite within their ſeuerall Dio<g ref="char:EOLhyphen"/>ceſſes, the ſaid Briefes to bee ſent by the ſayd Archbiſhops and Biſhops to the Miniſter and Curate of euery Pariſh Church and Chappell within their ſe<g ref="char:EOLhyphen"/>uerall Dioceſſes. And Wee alſo will and require euery Miniſter or Curate of euery Church or Chappell to whom ſuch printed Briefes ſhall bee deliuered that without any long delay, vpon ſome Sunday or Holy day, when the Pariſhioners be there fully aſſembled to heare Diuine Seruice they publikely declare in their ſeuerall Church or Chappell vnto the Congregation there aſſembled, the tenor of theſe Briefes, with an eſpeciall exhortation vnto them to yeelde their liberall and extraordinary Contribution to ſo charitable a worke. And We alſo will and require you the Churchwardens and ouerſeers of the poore, to make diligent Collection of the charitable deuotion of the people within the ſaid Church or Chappell ſo aſſembled, and that after Collection ſo made, you doe publiquely declare in that Church that whole ſumme of money ſo by you collected, and then procure the ſame ſumme to bee ſet downe on the backeſide of the ſaid Briefe vnder your hands, and the hand of the Miniſter of the ſayd Church or Chappell; And then that you the ſaid Churchwardens, or Ouerſeers, or one of you, after the receipt of the money ſo collected, deliuer the ſame together with the Briefe vnto ſuch Miniſter of the Deanry, where the ſaid Collection ſhall be made, as the Lord Biſhop of the ſaid Dioceſſe ſhall aſſigne or appoint to receiue the ſame. And Wee doe hereby require and au<g ref="char:EOLhyphen"/>thorize the Biſhop of euery Dioceſſe to name and appoint one fitte and able Miniſter in euery Deanry to receiue the ſaid Collections accordingly. And We alſo require you the ſaid Miniſter which ſhall bee ſo appointed to receiue the ſayd money from the foreſayd Ouerſeers, that you receiue the ſame with the aforeſaid Briefe, and that within tenne dayes after the receipt thereof, you pay and deliuer the ſame with the Briefe, whereby the ſame hath been collected, vnto the Lord Biſhop of the Dioceſſe, where ſuch collection is made. And Wee alſo require you the Archbiſhops and Biſhops of euery Dioceſſe reſpectiue<g ref="char:EOLhyphen"/>ly that you receiue of the ſaid Miniſter the ſaid money with the Briefes, whereby the ſame hath beene collected, and deliuer ouer all the ſayd Collections, which haue been ſo made within the ſeuerall Dioceſſes, to the Lord Biſhop of <hi>London.</hi> And we likewiſe require you the Biſhop of <hi>London,</hi> to tranſmit wiht<g ref="char:EOLhyphen"/>out delay to the ſaid Sir <hi>William Becher,</hi> or ſuch as hee ſhall appoint vnder his hand and ſeale, all the ſummes of money ſo collected within the ſeuerall Dio<g ref="char:EOLhyphen"/>ceſſes, taking a receipt for the ſame vnder his hand. And Wee hereby require and command the ſayd Sir <hi>William Becher,</hi> to diſtribute the ſame to the ſaid poore diſtreſſed Strangers, according to ſuch directions as from time to time the Lords and others of Our Priuie Counſel ſhall giue therein. All which for the furthering of the ſaid charitable worke without any diminution, Wee require to bee performed by all the perſons employed therein, without any de<g ref="char:EOLhyphen"/>duction of charges, and to be iuſtly and duely executed, any Statute, Law, Ordinance, or prouiſion heretofore made to the contrary in any wiſe notwith<g ref="char:EOLhyphen"/>ſtanding. In witneſſe whereof Wee haue cauſed theſe Our Letters to be made Patents for the ſpace of two yeeres from the date hereof to continue.</p>
+            <closer>
+               <dateline>Witneſſe Our Selfe at <hi>Westminſter,</hi> 
+                  <date>the fourth day of Ianuary, in the third yeere of our Reigne.</date>
+               </dateline>
+               <lb/>
+God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London by BONHAM NORTON, and IOHN BILL, Printers to the Kings moſt Excellent MAIESTIE. ANNO 1627.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
